@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Eraser of likes counter
+// @name         Eraser of likes counter for niconico
 // @namespace    https://yuicho.net
 // @version      0.1
 // @description  I hate counter of likes.

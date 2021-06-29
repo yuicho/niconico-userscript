@@ -7,6 +7,7 @@
 // @match        https://www.nicovideo.jp/*
 // @grant        none
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js
+// @updateURL    https://raw.githubusercontent.com/yuicho/niconico-userscript/main/eraser_of_likes_counter.user.js
 // ==/UserScript==
 
 (function() {
